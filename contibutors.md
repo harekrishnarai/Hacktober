@@ -1,8 +1,8 @@
 ## Format:
 
-#### Name: 
-#### Username:
-#### Profile Link:
+#### Name: Hare Krishna Rai
+#### Username: harekrishnarai
+#### Profile Link: https://github.com/harekrishnarai
 =======
 #### Name: Sourav Biswas
 #### Username:sourav1305
